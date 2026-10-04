@@ -20,8 +20,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Uploads (actual files, not directory)
-backend/uploads/resumes/*.pdf
+# Uploads
+# backend/uploads/resumes/*.pdf
 
 # MySQL credentials in any form
 *.sql.bak
