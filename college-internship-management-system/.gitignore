@@ -1,9 +1,9 @@
-﻿# Node modules
+# Node modules
 node_modules/
 */node_modules/
 
-# Environment variables
-.env
+# Environment variables (uncommented to include .env as requested)
+# .env
 .env.local
 .env.production
 
